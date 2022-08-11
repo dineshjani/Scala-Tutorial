@@ -1,7 +1,9 @@
 # Scala-Tutorial
 Credit: Pramod Narayana Sir
 https://www.youtube.com/watch?v=WF_7XCCu2E0&list=PLjOv0CBS0xcKFGeBJbefghIrlMJ9kkC2t
+
 Summaries:
+
 S̳c̳a̳l̳a̳ ̳1̳, Setup details|Function Programming mutability and immutability|val and var|type inference|data types|Unit datatype|Tuples|Expression
 
 S̳c̳a̳l̳a̳ ̳2, For Loops|yield|iterator guard|value binding|Functions|Procedures|VarArg Parameters|Parameter Groups|Type Parameters| Methods and Operators
