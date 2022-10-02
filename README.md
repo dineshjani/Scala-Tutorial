@@ -1,6 +1,7 @@
 # Scala-Tutorial
 Credit: Pramod Narayana Sir
 https://www.youtube.com/watch?v=WF_7XCCu2E0&list=PLjOv0CBS0xcKFGeBJbefghIrlMJ9kkC2t
+Best practice of functional programming : https://www.youtube.com/watch?v=TYupO6L26YA
 
 Summaries:
 
