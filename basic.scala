@@ -1,5 +1,5 @@
 object Type{
-    def main(args:Array[String]){
+    def main(args:Array[String]): Unit = {
         var l1=List(1,2,3,4)
         println(l1)
       //  l1=List(1,2,3,4,4.5) nwill give error beause of type int and after that double value assigned
