@@ -48,3 +48,11 @@ object Solution {
     threeSumRec(sortedNums, List())
     }
 }
+
+
+
+
+//  // Move the left pointer to skip duplicates
+//             val newLeft = Stream.from(left + 1).dropWhile(i => i < nums.length && nums(i) == nums(left)).headOption.getOrElse(right + 1)
+//             // Move the right pointer to skip duplicates
+//             val newRight = Stream.from(right - 1, -1).dropWhile(i => i >= 0 && nums(i) == nums(right)).headOption.getOrElse(left - 1)
